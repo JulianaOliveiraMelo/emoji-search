@@ -1,3 +1,6 @@
-#Emoji Search
+# Emoji Search
 
-[Lien pour voir le résultat](https://emoji-search-xi.vercel.app/)
+outils :
+["openmoji": "^12.3.0"](https://github.com/hfg-gmuend/openmoji)
+
+### [Lien pour voir le résultat](https://emoji-search-xi.vercel.app/)
